@@ -1,0 +1,21 @@
+.content {
+    display: flex;
+    flex-flow: column;
+    overflow: auto;
+    margin: 10px;
+    max-height:88vh;
+}
+
+.presentation {
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 20px;
+    min-height:30vh;
+    background-color: yellow;
+}
+
+.description {
+    justify-content: center;
+}
+
